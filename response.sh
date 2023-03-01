@@ -1,0 +1,3 @@
+export OPENAI_API_KEY=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
+openai api engines.list
+chatgpt
